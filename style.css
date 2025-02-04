@@ -9,6 +9,13 @@ body{
 @media screen and (max-width:500px){
     /*Any screen resolution from 0-500px wide*/
     body{
-        background-color: pink;
+        background-color: lavender;
+        font-size: 130%
+    }
+}
+@media screen and (max-width:400px){
+    body{
+        background-color:black;
+        color: white;
     }
 }
